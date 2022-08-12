@@ -1,0 +1,42 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+body {
+    background-color: lightblue;
+    font-family: 'Akshar';
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+  
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+
+ul {
+    font-size: 20px;
+}
